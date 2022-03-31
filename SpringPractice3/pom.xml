@@ -9,7 +9,7 @@
   <!-- 1.자바 버전, 스프링 버전 변수 선언 -->
   <properties>
   	<java-version>1.8</java-version>
-  	<org.springframework-version>5.0.7.RELEASE</org.springframework-version>
+  	<org.springframework-version>5.3.18</org.springframework-version>
   </properties>
   
   <!-- 스프링 라이브러리를 다운로드(Maven repository) -->
